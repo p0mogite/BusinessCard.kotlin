@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="basic_info">Sierra is about experience. Coffee, smoothies, brownies, paninis, soups, salads, music and service are all part of bringing you a great experience. Whether you’ve had a tasty drink, time with your friends or just a few hours to work on your computer – we are happy if you had a good experience at one of our cafes!</string>
+    <string name="working_hours">monday 07:30–23:00\ntuesday 07:30–23:00\nwednesday 07:30–23:00\nthursday 07:30–23:00\nfriday 07:30–23:00\nsaturday 07:30–23:00\nsunday 07:30–23:00</string>
+    <string name="address">address: Dushanbinskaya St. 62\ncontact us: 0770 969 690</string>
+</resources>
